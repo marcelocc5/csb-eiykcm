@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://marcelocc5.github.io/csb-eiykcm/static/css/main.7c5cc30e.chunk.css",
+    "main.js": "https://marcelocc5.github.io/csb-eiykcm/static/js/main.7b105059.chunk.js",
+    "main.js.map": "https://marcelocc5.github.io/csb-eiykcm/static/js/main.7b105059.chunk.js.map",
+    "runtime-main.js": "https://marcelocc5.github.io/csb-eiykcm/static/js/runtime-main.1f481548.js",
+    "runtime-main.js.map": "https://marcelocc5.github.io/csb-eiykcm/static/js/runtime-main.1f481548.js.map",
+    "static/js/2.1e62a28e.chunk.js": "https://marcelocc5.github.io/csb-eiykcm/static/js/2.1e62a28e.chunk.js",
+    "static/js/2.1e62a28e.chunk.js.map": "https://marcelocc5.github.io/csb-eiykcm/static/js/2.1e62a28e.chunk.js.map",
+    "index.html": "https://marcelocc5.github.io/csb-eiykcm/index.html",
+    "static/css/main.7c5cc30e.chunk.css.map": "https://marcelocc5.github.io/csb-eiykcm/static/css/main.7c5cc30e.chunk.css.map",
+    "static/js/2.1e62a28e.chunk.js.LICENSE.txt": "https://marcelocc5.github.io/csb-eiykcm/static/js/2.1e62a28e.chunk.js.LICENSE.txt",
+    "static/media/plus-icon.09738874.svg": "https://marcelocc5.github.io/csb-eiykcm/static/media/plus-icon.09738874.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f481548.js",
+    "static/js/2.1e62a28e.chunk.js",
+    "static/css/main.7c5cc30e.chunk.css",
+    "static/js/main.7b105059.chunk.js"
+  ]
+}
